@@ -1,0 +1,6 @@
+{
+  "appTitle": "Projecte d'aplicació de mobilitat",
+  "@appTitle": {
+    "description": "El títol de l'aplicació"
+  }
+}
